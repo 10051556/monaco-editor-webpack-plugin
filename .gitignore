@@ -3,3 +3,8 @@
 /test/dist/*.js
 /test/dist/*.ttf
 /out/
+.idea/misc.xml
+.idea/modules.xml
+.idea/monaco-editor-webpack-plugin.iml
+.idea/runConfigurations.xml
+.idea/vcs.xml
